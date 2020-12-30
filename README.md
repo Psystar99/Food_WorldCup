@@ -18,5 +18,6 @@
 본 시스템은 테스트의 결과값을 이진수의 문자열로 계산하여 최종 결과를 정수로 변환 후, 해당 결과값과 일치하는 음식점 또는 카페의 리스트를 보여주어 추천한다.
 
 ### 개발 환경
-#### 사용 IDE: Eclipse
-#### 사용 언어: HTML, CSS, JavaScript
+사용 IDE: Eclipse
+
+사용 언어: HTML, CSS, JavaScript, JSP
